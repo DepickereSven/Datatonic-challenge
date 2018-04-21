@@ -106,3 +106,4 @@ ENV/
 
 #ignore unzipped files
 Initial_Data/unzipped/*
+.vscode/settings.json
