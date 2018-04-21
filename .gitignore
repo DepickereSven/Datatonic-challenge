@@ -103,3 +103,6 @@ ENV/
 # Intellij
 *.iml
 .idea/
+
+#ignore unzipped files
+Initial_Data/unzipped/*
