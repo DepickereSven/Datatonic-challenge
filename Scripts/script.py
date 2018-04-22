@@ -1,10 +1,11 @@
 import pandas as pd
 import numpy as np
-import constants as c
 import glob as glob
+from Scripts.constants import *
+
 
 def readAllFiles():
-    files = glob.glob(c.ALL_FILES)
+    files = glob.glob(ALL_FILES)
     frames = []
 
     for file in files:
@@ -25,7 +26,7 @@ def exportDfToCsvFiles(df):
     while start < len(df):
         if stop >= len(df):
             stop = len(df)
-        fileName = c.BASIC_PATH +  'flights_2010_' + str(i) + '.csv'
+        fileName = BASIC_PATH +  'flights_2010_' + str(i) + '.csv'
         
         data = df.iloc[start:stop, 0:]
         data.to_csv( fileName, sep=',')

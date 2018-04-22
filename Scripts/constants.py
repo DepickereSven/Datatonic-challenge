@@ -1,4 +1,4 @@
-BASIC_PATH = 'Data/'
+BASIC_PATH = 'Initial_Data/Unzipped'
 
 ALL_FILES = BASIC_PATH + '*'
 
