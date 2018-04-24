@@ -1,3 +1,6 @@
+# Dit is niet de laatste versie
+# Zie JupyterPythonScript
+
 import pandas as pd
 import numpy as np
 import constants as c
@@ -36,7 +39,12 @@ def exportDfToCsvFiles(df):
 
 
 df = readAllFiles()
-# print(df)
+
+df = df.drop_duplicates()
+df = df.dropna();
+
+print(df)
 df.info()
-# print(df.describe())
+print(df.describe())
+
 exportDfToCsvFiles(df)
