@@ -111,3 +111,4 @@ Initial_Data/unzipped/*
 #ignore bigfiles
 Data/flights_2010.csv
 Data/flights_2010.json
+Data/Don't Add/*
