@@ -1,0 +1,70 @@
+[
+  {
+    "arline-code": "AA",
+    "airline-name": "American Airlines"
+  },
+  {
+    "arline-code": "AS",
+    "airline-name": "Alaska Airlines"
+  },
+  {
+    "arline-code": "B6",
+    "airline-name": "Jetblue Airways"
+  },
+  {
+    "arline-code": "CO",
+    "airline-name": "Continental Airlines*"
+  },
+  {
+    "arline-code": "DL",
+    "airline-name": "Delta Air Lines"
+  },
+  {
+    "arline-code": "EV",
+    "airline-name": "ExpressJet Airlines"
+  },
+  {
+    "arline-code": "F9",
+    "airline-name": "Frontier Airlines"
+  },
+  {
+    "arline-code": "FL",
+    "airline-name": "AirTran Airways"
+  },
+  {
+    "arline-code": "HA",
+    "airline-name": "Hawaiian Airlines"
+  },
+  {
+    "arline-code": "MQ",
+    "airline-name": "Envoy Air"
+  },
+  {
+    "arline-code": "OO",
+    "airline-name": "SkyWest Airlines"
+  },
+  {
+    "arline-code": "UA",
+    "airline-name": "United Airlines"
+  },
+  {
+    "arline-code": "US",
+    "airline-name": "US Airways*"
+  },
+  {
+    "arline-code": "VX",
+    "airline-name": "Virgin America"
+  },
+  {
+    "arline-code": "WN",
+    "airline-name": "Southwest Airlines"
+  },
+  {
+    "arline-code": "XE",
+    "airline-name": "JetSuiteX*"
+  },
+  {
+    "arline-code": "YV",
+    "airline-name": "Mesa Airlines*"
+  }
+]
