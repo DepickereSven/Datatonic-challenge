@@ -107,3 +107,8 @@ ENV/
 #ignore unzipped files
 Initial_Data/unzipped/*
 .vscode/settings.json
+
+#ignore bigfiles
+Data/flights_2010.csv
+Data/flights_2010.json
+Data/Don't Add/*
