@@ -37,4 +37,4 @@ ___
 
 ___
 
-# **_Presentaties gaan door op 15 mei of 22 mei 2018_**
+# **_Presentaties gaat door op 22 mei 2018 om 13u50_**
