@@ -114,3 +114,4 @@ Data/flights_2010.json
 Data/Don't Add/*
 Scripts/flights_2010_file_time_update.json
 Scripts/flights_2010_file_time_update_good_data.json
+*.csv
