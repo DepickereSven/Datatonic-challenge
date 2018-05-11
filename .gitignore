@@ -109,8 +109,6 @@ Initial_Data/unzipped/*
 .vscode/settings.json
 
 #ignore bigfiles
-Data/flights_2010.csv
-Data/flights_2010.json
-Data/Don't Add/*
+Data
 Scripts/flights_2010_file_time_update.json
 Scripts/flights_2010_file_time_update_good_data.json
