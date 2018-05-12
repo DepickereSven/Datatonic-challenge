@@ -46,7 +46,7 @@
   },
   {
     "arline-code": "CO",
-    "airline-name": "Continental Airlines*",
+    "airline-name": "Continental Airlines",
     "head": {
       "kwartier": {
         "locatie": "Houston",
@@ -187,7 +187,7 @@
   },
   {
     "arline-code": "US",
-    "airline-name": "US Airways*",
+    "airline-name": "US Airways",
     "head": {
       "kwartier": {
         "locatie": "Temp",
@@ -250,7 +250,7 @@
   },
   {
     "arline-code": "YV",
-    "airline-name": "Mesa Airlines*",
+    "airline-name": "Mesa Airlines",
     "head": {
       "kwartier": {
         "locatie": "Phoenix",
